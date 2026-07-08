@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "storefront_hostname": "https://nextjs-commerce-biznize.vercel.app/",
+    "storefront_hostname": "nextjs-commerce-biznize.vercel.app",
     "content_for_index": []
   }
 }
